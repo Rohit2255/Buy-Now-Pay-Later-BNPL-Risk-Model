@@ -63,8 +63,7 @@ Predict the likelihood that a loan applicant will **default** using only **pre-l
 6. **Model Export**
    - Pipeline saved using `joblib` for deployment use
 7. **SHAP Skipped**
-   - Due to technical issues with explainer compatibility in current notebook environment
-
+   
 ---
 
 ## 📈 Results
