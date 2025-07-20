@@ -22,7 +22,7 @@ Predict the likelihood that a loan applicant will **default** using only **pre-l
 
 ## 🗂 Dataset
 
-- **Source**: [LendingClub Public Loan Data](https://www.lendingclub.com/info/download-data.action)
+- **Source**: [LendingClub Public Loan Data](https://www.kaggle.com/datasets/wordsforthewise/lending-club)
 - **Size**: ~2 million records
 - **Features Used**:
   - Loan Amount, Term, Interest Rate
