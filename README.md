@@ -62,7 +62,6 @@ Predict the likelihood that a loan applicant will **default** using only **pre-l
    - Used **Calibration Curve** and **Precision-Recall Curve** to assess performance
 6. **Model Export**
    - Pipeline saved using `joblib` for deployment use
-7. **SHAP Skipped**
    
 ---
 
